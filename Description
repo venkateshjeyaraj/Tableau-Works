@@ -1,8 +1,8 @@
-We are going to build the dashboard to analyze the performance of 1000 startups.
+The task is to build a dashboard to analyze the performance of startups.
 
 We were provided with 2 excel sheets namely Overview & Financials.
 
-The Overview Sheet conatains the Startup details and its descriptions.
+The Overview Sheet conatains the 1000 Startup details and its descriptions.
 The Financials sheet contains the Revenue,Expense,Growth details for the years 2013,2014 and 2015. 
 
 The criterion for selecting top startups are:
