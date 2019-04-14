@@ -1,0 +1,10 @@
+The file contains the sample analysis of machine's performance in the Coal Terminal.
+
+We have created a KPI called "Idle Capacity" to measure the performance.
+
+Techniques Used:
+  *Window Calculations
+  *Table Calculations
+  *Refrence Lines
+  *Forecasting Lines
+  *Creating own formulas using calculated field
